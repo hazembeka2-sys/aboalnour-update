@@ -1,6 +1,7 @@
 {
-  "version": "2.0",
-  "versionCode": 2,
-  "apkUrl": "https://download.mediafire.com/file/4os4bj9zebt52oz/AbuAlnour+TV_2.0.apk",
-  "notes": "تحديث جديد - ثيمين جداد: أزرق ملكي وأحمر ملكي"
+  "version": "2.1",
+  "versionCode": 3,
+  "apkUrl": "https://download.mediafire.com/file/emb455rqxwt3ws7/AbuAlnour_TV_2.1.apk",
+  "notes": "تحديث 2.1 - تصليح إذاعات منوع على الشاشة - تصليح فوكس القرآن الكريم بالإسلاميات - تحسين تشغيل الراديو على شاشات الأندرويد",
+  "forceUpdate": false
 }
