@@ -1,7 +1,7 @@
 {
-  "version": "2.1",
-  "versionCode": 3,
-  "apkUrl": "https://download.mediafire.com/file/emb455rqxwt3ws7/AbuAlnour_TV_2.1.apk",
-  "notes": "تحديث 2.1 - تصليح إذاعات منوع على الشاشة - تصليح فوكس القرآن الكريم بالإسلاميات - تحسين تشغيل الراديو على شاشات الأندرويد",
+  "version": "2.2",
+  "versionCode": 4,
+  "apkUrl": "https://www.mediafire.com/file/XXXXXX/AbuAlnour_TV_2.2.apk/file",
+  "changelog": "إصلاح التنبيه بالتحديث",
   "forceUpdate": false
 }
