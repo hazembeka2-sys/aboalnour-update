@@ -1,7 +1,6 @@
 {
-  "version": "2.3",
-  "versionCode": 5,
-  "apkUrl": "https://www.mediafire.com/file/e8yybzuckecgfxn/AbuAlnour_TV_2.3.apk/file",
-  "changelog": "ودجت تحديثات الرسيفر بمكانو الجديد جنب الدوك + تحسينات",
-  "forceUpdate": false
+  "versionCode": 6,
+  "versionName": "2.4",
+  "apkUrl": "حط هون رابط الـ APK الجديد",
+  "changelog": "تعديل مواقيت الصلاة لتناسب وقت طرابلس 100% - خلفية جديدة جامع الشكر بطرابلس - تفعيل ترتيب الدوريات مع القناة الناقلة - إضافة زر البحث للمسلسلات والأفلام"
 }
